@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffb3c6"/><stop offset="1" stop-color="#ff8fab"/></linearGradient></defs>
+<rect width="400" height="400" fill="url(#g)"/>
+<g transform="translate(200 170)" fill="#fff0f4" opacity=".9">
+<g id="p"><ellipse cx="0" cy="-48" rx="22" ry="40"/></g>
+<use href="#p" transform="rotate(72)"/><use href="#p" transform="rotate(144)"/><use href="#p" transform="rotate(216)"/><use href="#p" transform="rotate(288)"/>
+<circle r="18" fill="#ffd75e"/></g>
+<text x="200" y="320" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#ffffff">Ảnh mẫu: thay bằng ảnh của nhóm mình</text>
+</svg>
